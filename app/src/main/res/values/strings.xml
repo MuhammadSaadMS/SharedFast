@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShareFast</string>
+    <string name="file_icon">File Icon</string>
+    <string name="delete_file">Delete File</string>
+</resources>
